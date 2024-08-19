@@ -1,2 +1,2 @@
-# Atividade-do-Figma-Proa
-https://github.com/Davi-dev1/Atividade-do-Figma-Proa.git
+# Atividade do Figma Proa Gestão Financeira
+https://www.figma.com/design/jlMg5PBKcdZc9I9bKLFdmo/Untitled?node-id=0-1&m=dev
