@@ -2,8 +2,9 @@
 https://www.figma.com/design/jlMg5PBKcdZc9I9bKLFdmo/Untitled?node-id=0-1&t=zMMpyoVmDuzFNVcB-1
 
 ## Imagem do  Protótipo - fase 1
-
-
+<P align= "center"> 
+  <img width="460" height="120" src=iPhone 14 & 15 Pro Max - 1.png
+    </P>
 
 
 
