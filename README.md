@@ -3,7 +3,7 @@ https://www.figma.com/design/jlMg5PBKcdZc9I9bKLFdmo/Untitled?node-id=0-1&t=zMMpy
 
 ## Imagem do  Protótipo - fase 1
 <p align="center"> 
-  <img src="iPhone.png" />
+  <img src="截图test1.png" />
     </p>
     
  # O que o Easy Financy oferece?    
