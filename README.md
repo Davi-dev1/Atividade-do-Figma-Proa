@@ -7,7 +7,7 @@ https://www.figma.com/design/jlMg5PBKcdZc9I9bKLFdmo/Untitled?node-id=0-1&t=zMMpy
   <img src= "截图test3removebgpreview.png"/>
     <img src= "截图test2emovebgpreview.png" /> 
 
-    </p>
+  </p>
     
  # O que o Easy Financy oferece?    
    <p> Receba recomendações baseadas em seus hábitos de consumo. Ajuste metas financeiras e veja o progresso em tempo real.
