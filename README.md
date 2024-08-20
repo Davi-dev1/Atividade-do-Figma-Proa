@@ -14,6 +14,8 @@ https://www.figma.com/design/jlMg5PBKcdZc9I9bKLFdmo/Untitled?node-id=0-1&t=zMMpy
  # Alertas e Lembretes: 
  <p> Receba notificações sobre vencimentos de contas, metas financeiras e oportunidades para economizar. Nunca mais perca um pagamento ou um prazo importante!
 </p>
+<p>Suporte ao Usuário Sempre ao Seu Lado: Nossa equipe está disponível para ajudar você com qualquer dúvida ou problema. Seu sucesso financeiro é a nossa prioridade!
 
+Com o Easy Finance, você transforma a maneira como lida com o seu dinheiro e conquista suas metas financeiras com facilidade. Baixe agora e comece a trilhar o caminho para uma vida financeira mais saudável e organizada! 💰📈</p>
 
 
