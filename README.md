@@ -3,7 +3,7 @@ https://www.figma.com/design/jlMg5PBKcdZc9I9bKLFdmo/Untitled?node-id=0-1&t=zMMpy
 
 ## Imagem do  Protótipo - fase 1
 <p align="center"> 
-  <img width="460" height="120" src="iPhone.png" />
+  <img src="iPhone.png" />
     </p>
 
 
